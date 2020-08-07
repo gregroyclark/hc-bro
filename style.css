@@ -12,3 +12,9 @@ body {
     max-width: 45%;
     height: auto;
   };
+
+  #tribute-info {
+      -moz-box-shadow: 5px 5px 5px 5px #777777;
+      -webkit-box-shadow: 5px 5px 5px 5px #777777;
+      box-shadow: 5px 5px 5px 5px #777777;
+  }
