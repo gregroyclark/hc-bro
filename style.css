@@ -1,4 +1,6 @@
 #hc-guitar {
+    display: block;
+    margin: 0px auto;
     max-width: 60%;
     height: auto;
   };
